@@ -1,0 +1,7 @@
+.env
+storage/cache/*
+!storage/cache/.gitkeep
+vendor/
+.idea/
+.vscode/
+.DS_Store
